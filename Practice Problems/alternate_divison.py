@@ -1,3 +1,6 @@
+"""
+Problem URL - https://www.codechef.com/COOK139C/problems/ALTERNATEDIV
+"""
 test = int(input())
 for _ in range(test):
     n = int(input())
